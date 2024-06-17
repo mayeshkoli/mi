@@ -1,0 +1,42 @@
+---
+title: "try_qu"
+format: html
+editor: visual
+author: may eshkoli
+date: 17.06.2024
+---
+
+q1
+
+```{r,eval=FALSE}
+b - to specifay the ducument format 
+```
+
+q2
+
+```{r, eval=FALSE}
+A - to indicate what has chaned in a commit
+```
+
+q3
+
+```{r, eval=FALSE}
+C - excel
+```
+
+q1.2
+
+```{r, eval=FALSE}
+mkdir ANS1
+```
+
+q1.3
+
+```{r, eval=FALSE}
+cp shiiping data 
+```
+
+```{r, eval=FALSE}
+git init
+git add *
+```
